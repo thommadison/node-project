@@ -1,1 +1,3 @@
-fs.writeFileSync('notes.txt', 'This file was created by Node.js')
+const name = 'Jamie'
+
+console.log(name)
